@@ -19,7 +19,7 @@ Terminal-first multi-account switcher for Claude Code — supports **API key** a
 ## Installation
 
 ```bash
-git clone https://github.com/wangjiehu/claude-switch
+git clone https://github.com/occ-tools/claude-switch
 cd claude-switch
 npm install
 npm run build

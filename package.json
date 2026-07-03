@@ -29,7 +29,18 @@
     "auth",
     "oauth"
   ],
-  "author": "",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hephaestus-DevKit/claude-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hephaestus-DevKit/claude-switch/issues"
+  },
+  "homepage": "https://github.com/Hephaestus-DevKit/claude-switch#readme",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
